@@ -2,8 +2,7 @@
 
 **Location**: London, UK  
 **Email**: [nikhil.babani.20@ucl.ac.uk](mailto:nikhil.babani.20@ucl.ac.uk)  
-**Phone**: [+44 77784 23213](tel:+447778423213)  
-**GitHub**: [njbabani](https://github.com/njbabani)
+**Phone**: [+44 77784 23213](tel:+447778423213)
 
 ## Education
 
