@@ -37,13 +37,12 @@ Supervised by Professor Simon J. Julier, Dr. Kevin Chetty & Dr. Martin Magnusson
 - Utilized RADAR equations and simulated ovals of Cassini for through-wall tracking
 
 ### Bachelor's Thesis, UCL
-
-![Arduino Nano ESP32](assets/images/Mobile_BLE_Receiver.png)
-
 **September 2023 – April 2024**  
 Supervised by Professor John E. Mitchell  
 - Developed an indoor pedestrian navigation system using BLE and 6-DOF IMU data  
 - Compared Kalman and Particle Filters for tracking nonlinear systems, achieving a positional error of 0.9952 m (75th percentile error: 1.3311 m)
+
+![Arduino Nano ESP32](assets/images/Mobile_BLE_Receiver.png)
 
 ## Professional Experience
 
