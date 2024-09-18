@@ -37,6 +37,9 @@ Supervised by Professor Simon J. Julier, Dr. Kevin Chetty & Dr. Martin Magnusson
 - Utilized RADAR equations and simulated ovals of Cassini for through-wall tracking
 
 ### Bachelor's Thesis, UCL
+
+![Arduino Nano ESP32](assets/images/Mobile_BLE_Receiver.png)
+
 **September 2023 – April 2024**  
 Supervised by Professor John E. Mitchell  
 - Developed an indoor pedestrian navigation system using BLE and 6-DOF IMU data  
