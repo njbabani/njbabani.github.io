@@ -17,7 +17,7 @@
 ### Kolej Tuanku Ja'afar, Negeri Sembilan, Malaysia  
 **International A-levels**  
 **January 2019 – June 2020**  
-- **Grade**: A*A*A*A in Mathematics, Physics, Chemistry, and Further Mathematics
+- **Grade**: 3A*A in Mathematics, Physics, Chemistry, and Further Mathematics
 - Awarded KTJ Internal Scholarship for scoring 8A*s during the IGCSE examinations
 - Activities: School Prefect, Vice House Captain, House Basketball Captain, PTPI Member
 
