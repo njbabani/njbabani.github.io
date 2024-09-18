@@ -7,7 +7,7 @@
 ## Education
 
 ### University College London (UCL), London, UK
-**Master of Electronic & Electrical Engineering with Minor in Engineering Mathematics**  
+**MEng (Electronic & Electrical) with Minor in Engineering Mathematics**  
 **September 2020 – June 2025**  
 - **Grade**: 1st Class Honours (GPA: 3.91/4.0)
 - Ranked 1st out of 154 in Year 3 and 15th out of 154 in Year 2
