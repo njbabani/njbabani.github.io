@@ -5,13 +5,13 @@
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/nikhil-babani/)
 
 ## About Me
-I'm a 4th-Year MEng student at University College London studying Electronic and Electrical Engineering. I have had the pleasure of encountering fascinating engineering problems throughout my undergraduate course and I look forward to applying my knowledge in other areas of applied mathematics.
+I'm a 4th-Year MEng student studying Electronic and Electrical Engineering at University College London. I have had the pleasure of encountering fascinating engineering problems throughout my undergraduate course and I look forward to applying my knowledge in other areas of applied mathematics.
 
 ## Education
 
 ### University College London
 ---
-**MEng (Electronic & Electrical) with Minor in Engineering Mathematics**  
+**MEng Electronic & Electrical Engineering with Minor in Engineering Mathematics**  
 **Expected June 2025**  
 - **Grade**: 1st Class Honours (GPA: 3.91/4.0)
 - **Activities**: UCL Robotics Society Member, UCL Fleming Society Member
