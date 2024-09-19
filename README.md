@@ -2,8 +2,6 @@
 [![GitHub](https://img.icons8.com/material-rounded/48/000000/github.png)](https://github.com/njbabani)
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/nikhil-babani/)
 
----
-
 ## About Me
 ---
 I'm a 4th-Year MEng student studying Electronic and Electrical Engineering at University College London. I have had the pleasure of encountering fascinating engineering problems throughout my undergraduate course and I look forward to applying my knowledge in other areas of applied mathematics. I am currently interested in the field of mobile robotics with machine learning for search-and-rescue applications. A quote regarding Fermat's Last Theorem encapsulates my philosophy on problem solving:
