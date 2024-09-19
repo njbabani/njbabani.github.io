@@ -14,7 +14,7 @@ I'm a 4th-Year MEng student at University College London studying Electronic and
 **MEng (Electronic & Electrical) with Minor in Engineering Mathematics**  
 **Expected June 2025**  
 - **Grade**: 1st Class Honours (GPA: 3.91/4.0)
-- **Activities**: UCL Robotics Society Treasurer, UCL Fleming Society Member
+- **Activities**: UCL Robotics Society Member, UCL Fleming Society Member
 
 ### Kolej Tuanku Ja'afar
 ---
