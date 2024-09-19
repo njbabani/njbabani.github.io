@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/nikhil-babani/)
 
 ## About Me
-I'm a 4th-Year MEng student at University College London studying Electronic and Electrical Engineering. I have had the pleasure of encountering fascinating engineering problems throughout my undergraduate course and I look forward to applying my knowledge in other areas of applied mathematics. A quote regarding Ferm
+I'm a 4th-Year MEng student at University College London studying Electronic and Electrical Engineering. I have had the pleasure of encountering fascinating engineering problems throughout my undergraduate course and I look forward to applying my knowledge in other areas of applied mathematics.
 
 ## Education
 
