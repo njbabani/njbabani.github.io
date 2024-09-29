@@ -13,8 +13,8 @@ I'm a 4th-Year MEng student studying Electronic and Electrical Engineering at Un
 ### University College London
 **MEng Electronic & Electrical Engineering**  
 **Expected June 2025** 
-- **IEP Minor**: Modern Applications of Engineering Mathematics
 - **Grade**: 1st Class Honours
+- **IEP Minor**: Modern Applications of Engineering Mathematics
 - **Activities**: UCL Robotics Society Member, UCL Fleming Society Member
 
 ### Kolej Tuanku Ja'afar
